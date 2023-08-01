@@ -1,1 +1,1 @@
-# ibm_tut
+# ibm data science course - tutorial
